@@ -9,5 +9,8 @@
         <module name="calculadoraCientifica" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="calculadoraCientifica" target="16" />
+    </bytecodeTargetLevel>
   </component>
 </project>
